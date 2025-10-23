@@ -1,4 +1,4 @@
-package com.rnfinancas
+package com.viniciosdb.rnfinancas
 
 import android.os.Build
 import android.os.Bundle
